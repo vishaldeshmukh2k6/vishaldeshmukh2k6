@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cover.png" width="500" alt="Vishal's banner"/>
+  <img src="https://i.ytimg.com/vi/-p47G3t1bpc/sddefault.jpg" width="500" alt="Vishal's banner"/>
 </p>
 
 # 👋 Hey, I'm Vishal Deshmukh!

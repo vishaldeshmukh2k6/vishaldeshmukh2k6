@@ -41,6 +41,11 @@
 
 ![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishaldeshmukh2k6&show_icons=true&theme=radical)
 
+---
+
+## 🐍 Contribution Snake Animation
+
+![snake gif](https://github.com/vishaldeshmukh2k6/vishaldeshmukh2k6/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -52,4 +57,5 @@
 ---
 
 🧠 *“I enjoy learning, solving problems, and building things that make life easier.”*
+
 

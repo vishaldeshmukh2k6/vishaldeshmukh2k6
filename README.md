@@ -1,5 +1,7 @@
 # 👋 Hey, I'm Vishal Deshmukh!
 
+![Profile Views](https://komarev.com/ghpvc/?username=vishaldeshmukh2k6&label=PROFILE+VIEWS&color=0e75b6&style=flat)
+
 🚀 A passionate **Python/Flask Developer** with a love for building clean, functional web apps. Currently learning full-stack development and exploring new tools and technologies.
 
 ---
@@ -49,3 +51,4 @@
 ---
 
 🧠 *“I enjoy learning, solving problems, and building things that make life easier.”*
+

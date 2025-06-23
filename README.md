@@ -44,7 +44,7 @@
 ## 🤝 Let's Connect!
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/coder2024/)
-- 📧 deshmukhvishal2006@gmail.com
+- 📧 vishaldeshmuk143@gmail.com
 
 ---
 

@@ -1,18 +1,23 @@
+<p align="center">
+  <img src="cover.png" width="500" alt="Vishal's banner"/>
+</p>
+
 # 👋 Hey, I'm Vishal Deshmukh!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vishaldeshmukh2k6&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 
-🚀 A passionate **Python/Flask Developer** with a love for building clean, functional web apps. Currently learning full-stack development and exploring new tools and technologies.
+🚀 A passionate **Python/Flask Developer** with a love for building clean, functional web apps.  
+📚 Currently learning full-stack development and exploring new tools and technologies.
 
 ---
 
 ## 💼 What I Do
 
-- 🔧 Build web apps using **Flask** and **SQLAlchemy**
-- 🗂 Design database models and implement CRUD operations
+- 🔧 Build web apps using **Flask**, **SQLAlchemy**, and **WTForms**
+- 🗂 Design database models and implement **CRUD** operations
 - 🎨 Create responsive UIs using **Bootstrap** and **HTML/CSS**
 - 🧠 Solve real-world problems with clean, logical code
-- ⚙️ Learn new tools and technologies every day
+- ⚙️ Continuously learn and apply new tools and technologies
 
 ---
 
@@ -29,27 +34,20 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![PythonAnywhere](https://img.shields.io/badge/-PythonAnywhere-1E90FF?style=flat&logo=python&logoColor=white)
 
-
-
 ---
 
 ## 📂 My Projects
 
-- ✅ [Flask To-Do App](https://github.com/vishaldeshmukh2k6/flask-todo-app) – User login, task filtering, status update
-- 📖 [Book Review Web App](https://github.com/vishaldeshmukh2k6/flask-book-review) – Add & review books with user auth
-- 📝 [Flask Blog App](https://github.com/vishaldeshmukh2k6/flask-blog) – Add/delete blog posts with Flask-Admin
-- 🌐 [Portfolio Website](https://github.com/vishaldeshmukh2k6/portfolio-site) – Responsive personal site with team section
+- ✅ [Flask To-Do App](https://github.com/vishaldeshmukh2k6/flask-todo-app) – User login, task filtering, and status update
+- 📖 [Book Review Web App](https://github.com/vishaldeshmukh2k6/flask-book-review) – Add & review books with user authentication
+- 📝 [Flask Blog App](https://github.com/vishaldeshmukh2k6/flask-blog) – Add/delete blog posts using Flask-Admin
+- 🌐 [Portfolio Website](https://github.com/vishaldeshmukh2k6/portfolio-site) – Responsive personal website with team section
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishaldeshmukh2k6&show_icons=true&theme=radical)
-
----
-
-
-
 
 ---
 
@@ -61,5 +59,4 @@
 ---
 
 🧠 *“I enjoy learning, solving problems, and building things that make life easier.”*
-
 

@@ -1,7 +1,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vishaldeshmukh2k6&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 <p align="center">
-  <img src="https://soti.net/media/6336/202206-wwdc22-blog-banner.png" width="500" alt="Vishal's banner"/>
+  <img src="https://soti.net/media/6336/202206-wwdc22-blog-banner.png" width="700" alt="Vishal's banner"/>
 </p>
 
 # 👋 Hey, I'm Vishal Deshmukh!

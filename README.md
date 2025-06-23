@@ -1,10 +1,10 @@
+
+![Profile Views](https://komarev.com/ghpvc/?username=vishaldeshmukh2k6&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 <p align="center">
   <img src="https://i.ytimg.com/vi/-p47G3t1bpc/sddefault.jpg" width="500" alt="Vishal's banner"/>
 </p>
 
 # 👋 Hey, I'm Vishal Deshmukh!
-
-![Profile Views](https://komarev.com/ghpvc/?username=vishaldeshmukh2k6&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 
 🚀 A passionate **Python/Flask Developer** with a love for building clean, functional web apps.  
 📚 Currently learning full-stack development and exploring new tools and technologies.

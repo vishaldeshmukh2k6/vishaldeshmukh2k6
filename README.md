@@ -37,7 +37,7 @@
 ---
 
 ## 📂 My Projects
-- 💰 [**Expense Tracker**](https://github.com/vishaldeshmukh2k6/expense-tracker) – Track daily expenses with login, add/delete features, and responsive UI
+- 💰 [**Expense Tracker**](https://vishal1122.pythonanywhere.com/) – Track daily expenses with login, add/delete features, and responsive UI
 - ✅ [Flask To-Do App](https://github.com/vishaldeshmukh2k6/flask-todo-app) – User login, task filtering, and status update
 - 📖 [Book Review Web App](https://github.com/vishaldeshmukh2k6/flask-book-review) – Add & review books with user authentication
 - 📝 [Flask Blog App](https://github.com/vishaldeshmukh2k6/flask-blog) – Add/delete blog posts using Flask-Admin

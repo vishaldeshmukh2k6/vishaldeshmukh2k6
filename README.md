@@ -18,7 +18,6 @@
 - 🎨 Create responsive UIs using **Bootstrap** and **HTML/CSS**
 - 🧠 Solve real-world problems with clean, logical code
 - ⚙️ Continuously learn and apply new tools and technologies
-https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966
 ---
 
 ## 🛠️ Tech Stack

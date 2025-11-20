@@ -52,7 +52,7 @@ Currently expanding my skills in **JavaScript, Node.js, jQuery, and modern backe
 
 ### **Python Developer — dVerse Technologies**  
 *Remote | Oct 2023 – Oct 2024*  
-- Worked with Flask, REST APIs, GenAI, MongoDB, Problem-solving & DS
+- Worked with Flask, REST APIs, GenAI, MongoDB, Problem-solving & DSA
 
 ### **Lead — dHive Labs**  
 *Chennai | Feb 2020 – Oct 2022*  

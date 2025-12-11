@@ -40,25 +40,6 @@ Currently expanding my skills in **JavaScript, Node.js, jQuery, and modern backe
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white)
 
----
-
-## 🧑‍💻 Experience
-### **Software Developer — Swadesi Way**  
-*Remote | May 2025 – Present*  
-- Backend/API development using Flask, PHP, JavaScript  
-- WooCommerce API integrations for product, order, and variation workflows  
-- Full-stack contributions with Tailwind, Bootstrap, and JS  
-- Debugging, API testing, and production maintenance
-
-### **Python Developer — dVerse Technologies**  
-*Remote | Oct 2023 – Oct 2024*  
-- Worked with Flask, REST APIs, GenAI, MongoDB, Problem-solving & DSA
-
-### **Lead — dHive Labs**  
-*Chennai | Feb 2020 – Oct 2022*  
-- Led teams, documentation, QA testing & small-scale deployments
-
----
 
 ## 📂 Featured Projects
 
